@@ -3,6 +3,7 @@
 ![03e5c231-3757-4649-bb6b-4a251a879aa4](https://user-images.githubusercontent.com/117488109/214332840-2f4b7c6d-2336-4298-8578-0da4f51d5ce7.jpeg)
 
 ## We, Pour Decisions, are a Sales & Marketing Consultant serving the Russian Food and Beverage sector.
+----------------------------------------------------------------------------------------------------------------------------
 
 We’re conducting a study aimed at predicting alcohol consumption trends based on key economic indicators. We will 
 analyze alcohol consumption data from 85 regions in Russia during the years 1998-2016. Our datasets contain info on
