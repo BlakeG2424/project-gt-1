@@ -11,21 +11,23 @@ alcohol consumption by region and by type. We will also consider the unemploymen
 years 1998-2016 to determine if there are any correlations with the amount of alcohol consumed.
 
 ## Projected Analysis
+----------------------------------------------------------------------------------------------------------------------------
 
-What is the preferred alcohol type in Russia? Does preferred alcohol type/strength 
+ What is the preferred alcohol type in Russia? Does preferred alcohol type/strength 
 vary by region in Russia? 
 
-How does alcohol consumption change with economic/unemployment changes? 
+ How does alcohol consumption change with economic/unemployment changes? 
 
-Does preferred alcohol type consumption vary with economic/unemployment 
+ Does preferred alcohol type consumption vary with economic/unemployment 
 conditions? 
 
-Does region population impact alcohol consumption per capita?
+ Does region population impact alcohol consumption per capita?
 
-Can we predict alcohol consumption based on unemployment rate in the future
+ Can we predict alcohol consumption based on unemployment rate in the future
 (linear regression)?
 
 ## Open Source Data to be Analyzed
+----------------------------------------------------------------------------------------------------------------------------
 
 "Alcohol Consumption in Russia (1998-2016)” 
 https://www.kaggle.com/datasets/dwdkills/alcohol-consumption-in-russia
