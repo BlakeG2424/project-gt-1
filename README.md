@@ -14,7 +14,7 @@ years 1998-2016 to determine if there are any correlations with the amount of al
 ## Projected Analysis
 ----------------------------------------------------------------------------------------------------------------------------
 
- What is the preferred alcohol type in Russia? Does preferred alcohol type/strength 
+ What alcohol type is consumed most in Russia? Does preferred alcohol type/strength 
 vary by region in Russia? 
 
  How does alcohol consumption change with economic/unemployment changes? 
