@@ -22,10 +22,10 @@ vary by region in Russia?
  Does preferred alcohol type consumption vary with economic/unemployment 
 conditions? 
 
- Does region population impact alcohol consumption per capita?
-
  Can we predict alcohol consumption based on unemployment rate in the future
 (linear regression)?
+
+ Does alcohol consumption per capita based on region latitude (linear regression)?
 
 ## Open Source Data to be Analyzed
 ----------------------------------------------------------------------------------------------------------------------------
@@ -36,8 +36,11 @@ https://www.kaggle.com/datasets/dwdkills/alcohol-consumption-in-russia
 "FRED Economic Data" 
 https://fred.stlouisfed.org/series/LMUNRRTTRUM156S
 
-"World Health Organization
+"World Health Organization"
 https://www.who.int/data/gho/data/themes/global-information-system-on-alcohol-and-health
+
+"Russia Regional Coordinates"
+https://www.kaggle.com/code/kingabzpro/alcoholic-drinks-in-russia-and-design-promotional/data
 
 “GeoApify” 
 https://apidocs.geoapify.com/
