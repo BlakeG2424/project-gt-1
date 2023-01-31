@@ -25,7 +25,7 @@ conditions?
  Can we predict alcohol consumption based on unemployment rate in the future
 (linear regression)?
 
- Does alcohol consumption per capita based on region latitude (linear regression)?
+ Does alcohol consumption per capita change based on region latitude (linear regression)?
 
 ## Open Source Data to be Analyzed
 ----------------------------------------------------------------------------------------------------------------------------
